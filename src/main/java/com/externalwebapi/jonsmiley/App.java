@@ -9,7 +9,6 @@ import org.springframework.web.context.support.AnnotationConfigWebApplicationCon
 @SpringBootApplication
 public class App extends SpringBootServletInitializer
 {
-
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application)
     {
